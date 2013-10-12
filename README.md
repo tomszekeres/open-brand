@@ -10,11 +10,11 @@ For an example of an Open Brand in use, see [The Markdown Mark](http://github.co
 
 #### [ Main header. Include a banner image showing the spec and two common sizes of the brand here. ]
 
-# [ Write the name of the brand here. ]
+# THIS HERE
 
-Use this mark to identify [brand name]. It should be used to identify [ write list of places to use this mark for identification. See "Examples" for more information. ]. If you are absolutely unable to use an image to display the [brand name], use this Unicode approximation: [ Show a Unicode approximation, if applicable. ]. See "Usage".
+Use this mark to identify This Here. It should be used to identify [ write list of places to use this mark for identification. See "Examples" for more information. ]. If you are absolutely unable to use an image to display the [brand name], use this Unicode approximation: [ Show a Unicode approximation, if applicable. ]. See "Usage".
 
-[ Include a list of attributions and sources here, including the creators of the mark. ]
+This mark was designed by [Bryony Dicks](http://bryonydesign.co.uk)
 
 ## Specification
 
